@@ -1,0 +1,14 @@
+#CompanyNmaeÅCID,Name,Money
+Fujifilm,123,AAA,100
+Fujifilm,456,BBB,200
+Fujifilm,789,CCC,300
+Fujifilm,012,DDD,600
+Fujifilm,234,EEE,500
+
+
+#CompanyNmaeÅCID,Name,Money,Sexal
+Canon,123,FFF,10,man
+Canon,456,GGG,20,woman
+Canon,789,HHH,30,man
+Canon,012,JJJ,40,woman
+Canon,234,KKK,50,man

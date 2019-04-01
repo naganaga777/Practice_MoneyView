@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28241</DEFECTCODE>
+    <DESCRIPTION>注釈 'SAL_name' ('new' に対する、'return' 上の) は認識されません。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28285</DEFECTCODE>
+    <DESCRIPTION>関数 'new' に対し、'("_Ret_notnull_","","2")' ('("_Ret_notnull_",""' 付近) で 'return' 構文エラーが発生しました。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28241</DEFECTCODE>
+    <DESCRIPTION>注釈 'SAL_name' ('new' に対する、'return' 上の) は認識されません。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28285</DEFECTCODE>
+    <DESCRIPTION>関数 'new' に対し、'("_Post_writable_byte_size_","","2")' ('("_Post_writable_byte_size_",""' 付近) で 'return' 構文エラーが発生しました。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28241</DEFECTCODE>
+    <DESCRIPTION>注釈 'SAL_writableTo' ('new' に対する、'return' 上の) は認識されません。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\moneyviewer\</FILEPATH>
+      <FILENAME>predefined c++ types (compiler internal)</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28285</DEFECTCODE>
+    <DESCRIPTION>関数 'new' に対し、'(byteCount(__formal(0,_Size)))' ('(byteCount(__formal(0' 付近) で 'return' 構文エラーが発生しました。</DESCRIPTION>
+    <FUNCTION></FUNCTION>
+    <DECORATED></DECORATED>
+    <FUNCLINE>0</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>621</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::int_range::start' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::int_range::{ctor}</FUNCTION>
+    <DECORATED>??0int_range@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>621</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>621</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::int_range::end' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::int_range::{ctor}</FUNCTION>
+    <DECORATED>??0int_range@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>621</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>621</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::int_range::current' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::int_range::{ctor}</FUNCTION>
+    <DECORATED>??0int_range@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>621</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>628</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::int_range::{ctor}</FUNCTION>
+    <DECORATED>??0int_range@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>628</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1307</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::reverse_builder::capacity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::reverse_builder::{ctor}</FUNCTION>
+    <DECORATED>??0reverse_builder@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>1307</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1312</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::reverse_builder::{ctor}</FUNCTION>
+    <DECORATED>??0reverse_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>1312</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1500</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::take_builder::count' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::take_builder::{ctor}</FUNCTION>
+    <DECORATED>??0take_builder@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>1500</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1505</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::take_builder::{ctor}</FUNCTION>
+    <DECORATED>??0take_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>1505</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1715</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::skip_builder::count' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::skip_builder::{ctor}</FUNCTION>
+    <DECORATED>??0skip_builder@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>1715</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>1720</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::skip_builder::{ctor}</FUNCTION>
+    <DECORATED>??0skip_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>1720</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>2365</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::distinct_builder::{ctor}</FUNCTION>
+    <DECORATED>??0distinct_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>2365</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3056</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::experimental::container_builder::{ctor}</FUNCTION>
+    <DECORATED>??0container_builder@experimental@detail@cpplinq@@QAE@$$QAU0123@@Z</DECORATED>
+    <FUNCLINE>3056</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3082</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::to_vector_builder::capacity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::to_vector_builder::{ctor}</FUNCTION>
+    <DECORATED>??0to_vector_builder@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>3082</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3087</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::to_vector_builder::{ctor}</FUNCTION>
+    <DECORATED>??0to_vector_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3087</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3120</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::to_list_builder::{ctor}</FUNCTION>
+    <DECORATED>??0to_list_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3120</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3602</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::first_builder::{ctor}</FUNCTION>
+    <DECORATED>??0first_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3602</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3673</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::first_or_default_builder::{ctor}</FUNCTION>
+    <DECORATED>??0first_or_default_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3673</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3744</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::last_or_default_builder::{ctor}</FUNCTION>
+    <DECORATED>??0last_or_default_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3744</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3817</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::count_builder::{ctor}</FUNCTION>
+    <DECORATED>??0count_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3817</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3885</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::sum_builder::{ctor}</FUNCTION>
+    <DECORATED>??0sum_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3885</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>3957</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::max_builder::{ctor}</FUNCTION>
+    <DECORATED>??0max_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>3957</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4036</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::min_builder::{ctor}</FUNCTION>
+    <DECORATED>??0min_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>4036</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4118</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::avg_builder::{ctor}</FUNCTION>
+    <DECORATED>??0avg_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>4118</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4448</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::any_builder::{ctor}</FUNCTION>
+    <DECORATED>??0any_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>4448</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4601</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cpplinq::detail::element_at_or_default_builder::index' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::element_at_or_default_builder::{ctor}</FUNCTION>
+    <DECORATED>??0element_at_or_default_builder@detail@cpplinq@@QAE@ABU012@@Z</DECORATED>
+    <FUNCLINE>4601</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4606</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::element_at_or_default_builder::{ctor}</FUNCTION>
+    <DECORATED>??0element_at_or_default_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>4606</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\naoki\documents\visual studio 2017\projects\自己研鑽\moneyviewer\moneyviewer\packages\cpplinq.2013.08.10\build\native\include\</FILEPATH>
+      <FILENAME>cpplinq.hpp</FILENAME>
+      <LINE>4729</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cpplinq::detail::pairwise_builder::{ctor}</FUNCTION>
+    <DECORATED>??0pairwise_builder@detail@cpplinq@@QAE@$$QAU012@@Z</DECORATED>
+    <FUNCLINE>4729</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

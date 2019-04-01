@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\BusinessLogic">
+      <UniqueIdentifier>{89f8a067-6f52-4654-9447-026ff069f42e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\BusinessLogic">
+      <UniqueIdentifier>{ae4b7544-83b2-4116-9dc7-12b1979202d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Viewer">
+      <UniqueIdentifier>{7c7de7fd-e041-4007-97af-b3cdf52f7276}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Viwer">
+      <UniqueIdentifier>{4a985a86-cf68-41c2-81b3-b1381ce8563b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Infrastracture">
+      <UniqueIdentifier>{681342ab-8c10-4c5c-a09d-3b06755ed951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Infrastructure">
+      <UniqueIdentifier>{9d1b9045-3d43-4d24-b971-a6b91d9e862c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculater.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleViwer.h">
+      <Filter>ヘッダー ファイル\Viwer</Filter>
+    </ClInclude>
+    <ClInclude Include="IWorker.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVReader.h">
+      <Filter>ヘッダー ファイル\Infrastracture</Filter>
+    </ClInclude>
+    <ClInclude Include="IAccesser.h">
+      <Filter>ヘッダー ファイル\Infrastracture</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVAccesser.h">
+      <Filter>ヘッダー ファイル\Infrastracture</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVDataObject.h">
+      <Filter>ヘッダー ファイル\Infrastracture</Filter>
+    </ClInclude>
+    <ClInclude Include="IRepository.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="IDataObject.h">
+      <Filter>ヘッダー ファイル\Infrastracture</Filter>
+    </ClInclude>
+    <ClInclude Include="CompanyARepository.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="CompanyAWorker.h">
+      <Filter>ヘッダー ファイル\BusinessLogic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="MoneyViewer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculater.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleViewer.cpp">
+      <Filter>ソース ファイル\Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="IWorker.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVReader.cpp">
+      <Filter>ソース ファイル\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="IAccesser.cpp">
+      <Filter>ソース ファイル\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVAccesser.cpp">
+      <Filter>ソース ファイル\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="IDataObject.cpp">
+      <Filter>ソース ファイル\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVDataObject.cpp">
+      <Filter>ソース ファイル\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="IRepository.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="CompanyARepository.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="CompanyAWorker.cpp">
+      <Filter>ソース ファイル\BusinessLogic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
